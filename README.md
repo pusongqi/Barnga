@@ -6,23 +6,23 @@ Thank you for visiting the Barnga simulation app project repository.
 This document (the README file) is a hub to give you some information about the project.
  
 What we are doing?
-As a global citizen: No matter in what area that you work or study in, with globalization, more and more people encounter schoolmates, co-workers, business partners from different cultures. Although sometimes language barriers might be conquered, learning how to understand each can still be difficult because of the immense cultural difficulties that there is.
+-   As a global citizen: No matter in what area that you work or study in, with globalization, more and more people encounter schoolmates, co-workers, business partners from different cultures. Although sometimes language barriers might be conquered, learning how to understand each can still be difficult because of the immense cultural difficulties that there is.
  
-As an American: There is more and more diversity work being promoted each year. However, discrimination and bias towards minorities and immigrants still occur. Many times people are biased because they don’t know others’ culture and the differences between the socio-economical gaps. 
+-   As an American: There is more and more diversity work being promoted each year. However, discrimination and bias towards minorities and immigrants still occur. Many times people are biased because they don’t know others’ culture and the differences between the socio-economical gaps. 
  
-As a social study researcher: Intercultural understanding studies have great potentials. ‘A-ha’ moment that conflict arises not (only) from major or obvious cultural differences but often from subtle, minor cues. He created the game to tease out these subtleties.
+-   As a social study researcher: Intercultural understanding studies have great potentials. ‘A-ha’ moment that conflict arises not (only) from major or obvious cultural differences but often from subtle, minor cues. He created the game to tease out these subtleties.
 
 The solution:
 
 A simulation game that encourages
 
-Participants to critically consider normative assumptions and cross-cultural communication. 
+-   Participants to critically consider normative assumptions and cross-cultural communication. 
 
-The data collected by this game is open to social science researchers and school diversity offices 
+-   The data collected by this game is open to social science researchers and school diversity offices 
 
-The game takes place online which makes it intuitive and easy to play, the results of the game is also easy to collect and to be analyzed
+-   The game takes place online which makes it intuitive and easy to play, the results of the game is also easy to collect and to be analyzed
 
-The goal is to increase the awareness of the cultural differences that exist and learn to respect each other and to collect useful data for social studies. 
+-   The goal is to increase the awareness of the cultural differences that exist and learn to respect each other and to collect useful data for social studies. 
 
 What do we need?
 
